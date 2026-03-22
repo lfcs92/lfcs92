@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Luís Felipe.
 
-### Estudante de Análise e Desenvolvimento de Sistemas na CESAR School.
+### Atualmente estou em transição de carreira e sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School.
 
 - 🌱 Atualmente estou aprendendo **C, Python, JavaScript, HTML e CSS**
 
